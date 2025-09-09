@@ -1,0 +1,259 @@
+[
+  {
+    "questions": [
+      "Who are you?",
+      "Tell me about yourself",
+      "Introduce yourself",
+      "What's your name?",
+      "What do you do?"
+    ],
+    "answer": "I'm Aditya Jaiswal, a B.Tech CSE student at Bennett University and a data/analytics enthusiast. I build practical solutions with Python, SQL, and Power BI—dashboards, customer insights, and predictive models."
+  },
+  {
+    "questions": [
+      "Where do you study?",
+      "Which college are you from?",
+      "What are you studying?",
+      "What's your education background?"
+    ],
+    "answer": "I’m pursuing B.Tech in Computer Science Engineering at Bennett University (2022–2026) with a CGPA of 7.8."
+  },
+  {
+    "questions": [
+      "What programming languages do you know?",
+      "What are your technical skills?",
+      "Which tools and frameworks do you use?"
+    ],
+    "answer": "I work in Python, MySQL, C++, and Java. My toolkit includes Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, PyTorch basics, Power BI, Tableau, and Git/GitHub in VS Code."
+  },
+  {
+    "questions": [
+      "What services do you offer?",
+      "How can you help a startup?",
+      "Do you do freelance work?",
+      "Can you build a dashboard or model for my business?"
+    ],
+    "answer": "Yes—data cleaning and modeling, KPI dashboards in Power BI/Tableau, customer segmentation, predictive sales models, and ad-hoc analysis for early-stage teams."
+  },
+  {
+    "questions": [
+      "Tell me about your internship",
+      "Have you done any internships?",
+      "What work experience do you have?",
+      "What did you do at Order Health?",
+      "Describe your data analyst intern experience"
+    ],
+    "answer": "At Order Health, I analyzed purchasing trends, segmented customers, and identified high-demand products that shaped marketing and inventory decisions. I also built a predictive sales model that cut overstock by ~15% and delivered interactive KPI dashboards end-to-end using SQL and Python."
+  },
+  {
+    "questions": [
+      "What predictive model did you build?",
+      "How did you reduce overstock by 15%?",
+      "Explain your forecasting work"
+    ],
+    "answer": "I engineered a sales prediction pipeline for health supplements using Python and Scikit-Learn—feature engineering on seasonality and SKU trends, model training/validation, and threshold-based stock recommendations that reduced overstock by about 15%."
+  },
+  {
+    "questions": [
+      "Have you published any papers?",
+      "What research have you done?",
+      "Tell me about your research work",
+      "What is your ICICC paper about?",
+      "Explain your image captioning complaint project"
+    ],
+    "answer": "I co-authored a Springer proceeding on complaint categorization using image captioning and generative AI. The pipeline used CNNs/LSTMs/Transformers to generate captions (Flickr8k/30k) and route complaints based on textual descriptors."
+  },
+  {
+    "questions": [
+      "Tell me about your projects",
+      "What kind of projects have you done?",
+      "Give me an overview of your work"
+    ],
+    "answer": "Key projects: a Voice-Enabled Conversational AI Bot with Flask & Mistral AI, a retrieval-based FAQ Bot using FAISS & sentence-transformers, and Customer Analysis & Segmentation with K-Means."
+  },
+  {
+    "questions": [
+      "What is your FAQ Bot?",
+      "Tell me about your chatbot project",
+      "Have you built chatbots?",
+      "How did you build the retrieval chatbot?",
+      "Describe the FAISS chatbot"
+    ],
+    "answer": "I built a retrieval-based FAQ bot in Flask using sentence-transformers and FAISS for semantic search over JSON FAQs, with a lightweight HTML/CSS/JS UI that embeds as a support widget."
+  },
+  {
+    "questions": [
+      "What is your voice-enabled chatbot?",
+      "Tell me about the voice AI bot",
+      "Explain your conversational AI project",
+      "Describe your conversational AI app",
+      "What is the Mistral AI bot project?"
+    ],
+    "answer": "It’s a Flask web app that lets users talk with an AI in real time. I integrated Mistral AI with the Web Speech API for natural voice input/output and a personality-driven flow."
+  },
+  {
+    "questions": [
+      "What data science projects have you done?",
+      "Tell me about your data analysis work",
+      "Have you worked with customer data?",
+      "Explain your customer segmentation project",
+      "What did you do with K-Means?",
+      "How do you find high-value customers?"
+    ],
+    "answer": "I used K-Means on transaction features like recency, frequency, and spend to segment customers, surface high-value cohorts, and identify bestselling products for targeted campaigns."
+  },
+  {
+    "questions": [
+      "What are your achievements?",
+      "Have you won anything?",
+      "What recognitions have you received?",
+      "Any leadership or activities?",
+      "What did you do as Student Ambassador?",
+      "Tell me about your society role"
+    ],
+    "answer": "I published at ICICC 2025, interned as a Data Analyst at Order Health, served as a Student Ambassador for Bennett admissions, and led the Data Science Society’s management and finance, running hackathons and workshops."
+  },
+  {
+    "questions": [
+      "What are your soft skills?",
+      "Describe your personality",
+      "What kind of team player are you?",
+      "How do you work in teams?",
+      "Describe your communication style"
+    ],
+    "answer": "Analytical, persistent, and communicative. I value clear, respectful teamwork and have experience coordinating events, tours, and student initiatives."
+  },
+  {
+    "questions": [
+      "What tools do you prefer for BI?",
+      "Power BI or Tableau?",
+      "How do you build dashboards?",
+      "What projects showcase data visualization?",
+      "Show me a dashboard example",
+      "Have you built KPI boards?"
+    ],
+    "answer": "I prefer Power BI for modeling with DAX and interactive visuals, and use Tableau when needed. My process: clean in Python/SQL, define KPIs, build a star schema, then design accessible visuals with consistent colors and filters."
+  },
+  {
+    "questions": [
+      "How do you approach a new data problem?",
+      "What is your workflow?",
+      "How do you ensure quality?"
+    ],
+    "answer": "Start with the business question, audit data sources, clean and profile in Python/SQL, define KPIs, iterate models/visuals, and validate with stakeholders. I document assumptions and keep everything reproducible in Git."
+  },
+  {
+    "questions": [
+      "Where can I see your work?",
+      "Do you have GitHub?",
+      "Can I check your projects?"
+    ],
+    "answer": "GitHub: adityajaiswal2406. I can share specific repos, notebooks, and dashboards on request."
+  },
+  {
+    "questions": [
+      "How can I contact you?",
+      "What's your email?",
+      "Can I reach out to you for work?"
+    ],
+    "answer": "Email: adityajaiswal9818@gmail.com | Phone: +91-8860909802. Happy to discuss roles or projects."
+  },
+  {
+    "questions": [
+      "Are you available for freelance work?",
+      "Can I hire you?",
+      "Are you open to projects?"
+    ],
+    "answer": "Yes, I’m open to short analytics gigs—dashboards, cleaning/modeling, segmentation, and forecasting."
+  },
+  {
+    "questions": [
+      "What’s your strength?",
+      "Why should we pick you?",
+      "What value do you add?"
+    ],
+    "answer": "Clear impact and ownership—turning data into decisions. I’ve delivered a predictive model reducing overstock ~15% and dashboards that drive faster actions."
+  },
+  {
+    "questions": [
+      "What’s your CGPA?",
+      "Your academic standing?"
+    ],
+    "answer": "My current CGPA is 7.8."
+  },
+  {
+    "questions": [
+      "What’s your availability?",
+      "When can you join?",
+      "Are you open to internships?"
+    ],
+    "answer": "Open to internships or part-time analytics work alongside academics; flexible around semester timelines."
+  },
+  {
+    "questions": [
+      "What datasets have you worked on?",
+      "Have you handled messy data?",
+      "ETL experience?"
+    ],
+    "answer": "Yes—transaction and sales datasets for segmentation and forecasting. I handle extraction, cleaning, joins, feature engineering, and validation before modeling or BI."
+  },
+  {
+    "questions": [
+      "What visualization practices do you follow?",
+      "How do you keep dashboards readable?"
+    ],
+    "answer": "Consistent colors/typography, minimal clutter, clear legends, responsive layouts, and slicers aligned to business questions. Prefer simple visuals that answer why and what’s next."
+  },
+  {
+    "questions": [
+      "What’s your long-term goal?",
+      "Where do you see yourself?"
+    ],
+    "answer": "Building reliable analytics systems—solid data pipelines, usable dashboards, and lightweight models that guide strategy."
+  },
+  {
+    "questions": [
+      "Do you know DAX?",
+      "How comfortable are you with Power BI modeling?"
+    ],
+    "answer": "Comfortable with measures like CALCULATE, FILTER, DATEADD, and time-intelligence patterns, plus star-schema modeling and relationships."
+  },
+  {
+    "questions": [
+      "Do you know cloud tools?",
+      "Any exposure to deployment?"
+    ],
+    "answer": "Primarily version-controlled local work and BI publishing; can adapt to common cloud stacks as needed."
+  },
+  {
+    "questions": [
+      "hi",
+      "hello",
+      "hey",
+      "yo",
+      "what's up",
+      "how’s it going?",
+      "how you doing?",
+      "what's new?"
+    ],
+    "answer": "Hey! Glad you’re here—ask me about my analytics work, dashboards, or projects."
+  },
+  {
+    "questions": [
+      "how are you",
+      "how are you doing"
+    ],
+    "answer": "Doing well—working on data projects and open to new ideas."
+  },
+  {
+    "questions": [
+      "bye",
+      "goodbye",
+      "see you",
+      "talk to you later",
+      "see ya",
+      "later!"
+    ],
+    "answer": "Thanks for stopping by! Reach out anytime—email or call works best."
+  }
+]

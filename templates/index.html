@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aditya Jaiswal - FAQ Bot</title>
+  <link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+
+  <!-- Center Intro -->
+  <div class="intro">
+    <h1>Hi, I'm Aditya Jaiswal 👋</h1>
+    <p>
+      B.Tech CSE student at Bennett University | Data & AI Enthusiast.<br>
+      I build practical solutions with Python, SQL, Power BI, and Machine Learning.<br>
+      Ask me anything through my FAQ Bot!
+    </p>
+  </div>
+
+  <!-- Chatbot Icon -->
+  <div class="chatbot-icon" onclick="toggleChat()">💬</div>
+
+  <!-- Chat Popup -->
+  <div class="chat-popup" id="chatPopup">
+    <div class="chat-header">Aditya's FAQ Bot</div>
+    <div class="chat-body" id="chatBody">
+      <p><b>Bot:</b> Hi! Ask me anything about Aditya.</p>
+    </div>
+    <div class="chat-footer">
+      <input type="text" id="userInput" placeholder="Type your question...">
+      <button onclick="sendMessage()">Send</button>
+    </div>
+  </div>
+
+  <script src="static/script.js"></script>
+</body>
+</html>
